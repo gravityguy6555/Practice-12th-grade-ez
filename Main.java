@@ -21,3 +21,4 @@ public class Main {
         System.out.println("HDMI1 le même que HDMI2?");
         System.out.println(hdmi1.equals(hdmi2));
     }
+}

@@ -1,12 +1,13 @@
 /** Une classe qui définit un objet simple */
 public class HdmiPort {
 
-    public static void main(String[] args) {
   // attributs
   boolean functioning;
   String connectedTo;
 
   // Constructeurs
+public static void main(String[] args) {
+
 
   HdmiPort() {
       // Initialiser les valeurs par défaut directement
